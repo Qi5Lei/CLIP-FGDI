@@ -302,7 +302,7 @@ def test(testloaders, model, logger_test):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='train')
     parser_test = argparse.ArgumentParser(description='test')
-    parsertrain, parsertest, logname = protocol_ALL(parser, parser_test)
+    parsertrain, parsertest, logname = protocol_1(parser, parser_test)
 
     args_train = parsertrain.parse_args()
     args_test = parsertest.parse_args()
