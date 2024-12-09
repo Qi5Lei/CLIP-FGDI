@@ -23,7 +23,7 @@ This is our code repository.
 
 We achieved the highest average performance across *three popular  experimental protocols* for **cross-domain person re-identification**.
 
-![results](figures/experiments.png)
+![results](experiments.png)
 
 
 
