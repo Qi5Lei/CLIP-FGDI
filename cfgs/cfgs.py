@@ -96,10 +96,3 @@ def protocol_3_M(parser,parsertest):
     return parse_train_args(parser, ["cuhk03", "cuhk_sysu", "MSMT17"], [1467,11934,4101], True), \
            parse_test_args(parsertest, ["Market"]),\
            'protocol_3_M'
-
-
-
-def protocol_ALL(parser,parsertest):
-    return parse_train_args(parser, ["cuhk03", "cuhk_sysu", "MSMT17", "Market", "cuhk_sysu", "CUHK02"], [1467,11934,4101,1502,11934, 1816], True), \
-           parse_test_args(parsertest, ["PRID", "GRID", "VIPeR", "iLIDS"]),\
-           'protocol_ALL'
