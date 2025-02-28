@@ -1,4 +1,4 @@
-# CLIP-FGDI: Exploiting Vision-Language Model for Generalized Feature Learning
+# CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification
 
 
 
