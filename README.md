@@ -27,7 +27,31 @@ We achieved the highest average performance across *three popular  experimental 
 
 
 
+## Trained Weights
 
+|  Setting   | mAP \| Rank-1 |   Weights   |
+| :--------: | :-----------: | :---------: |
+| Protocol-1 | 82.2 \| 75.5  | coming soon |
+| Protocol-2 | 51.6 \| 65.1  | coming soon |
+| Protocol-3 | 54.3 \| 67.6  | coming soon |
+
+
+
+
+
+
+# Citation
+
+```tex
+@article{10858181,
+author = {Zhao, Huazhong and Qi, Lei and Geng, Xin},
+title = {CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification},
+year = {2025},
+journal = {IEEE Transactions on Information Forensics and Security},
+}
+
+
+```
 
 
 
